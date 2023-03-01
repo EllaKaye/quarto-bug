@@ -1,5 +1,5 @@
 ---
-title: "date-test"
+title: "Citation date bug"
 format: html
 date: 2023-03-01
 citation: true
