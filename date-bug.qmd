@@ -1,0 +1,9 @@
+---
+title: "date-test"
+format: html
+date: 2023-03-01
+citation: true
+
+---
+
+The attribution below gives the year as '23AD', not 2023.
