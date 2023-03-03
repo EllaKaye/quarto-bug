@@ -1,3 +1,3 @@
-Demo of a quarto bug in v 1.3.237.
+Demo of a quarto bug in v 1.3.242.
 
-In the attribution, it gives date as 23AD, not 2023.
+Crossref inside div doesn't resolve
