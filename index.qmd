@@ -1,0 +1,26 @@
+---
+title: "Crossref bug"
+format: html
+---
+
+:::{.callout-note}
+```{r}
+#| label: fig-div-plot
+#| fig-cap: my plot!
+plot(1:10, 1:10)
+```
+Check out @fig-div-plot
+:::
+
+Check out @fig-div-plot
+
+```{r}
+#| label: fig-plot
+#| fig-cap: Here's the plot again
+plot(1:10, 1:10)
+```
+Check out @fig-plot
+
+:::{.callout-note}
+Check out @fig-plot
+:::
